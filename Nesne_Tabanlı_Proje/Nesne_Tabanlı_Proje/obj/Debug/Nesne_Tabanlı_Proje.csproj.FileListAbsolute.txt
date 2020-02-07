@@ -1,0 +1,17 @@
+C:\Users\Egemen TURK\Desktop\Proje\Nesne_Tabanlı_Proje\Nesne_Tabanlı_Proje\obj\Debug\Nesne_Tabanlı_Proje.Form1.resources
+C:\Users\Egemen TURK\Desktop\Proje\Nesne_Tabanlı_Proje\Nesne_Tabanlı_Proje\obj\Debug\Nesne_Tabanlı_Proje.Properties.Resources.resources
+C:\Users\Egemen TURK\Desktop\Proje\Nesne_Tabanlı_Proje\Nesne_Tabanlı_Proje\obj\Debug\Nesne_Tabanlı_Proje.csproj.GenerateResource.cache
+C:\Users\Egemen TURK\Desktop\Proje\Nesne_Tabanlı_Proje\Nesne_Tabanlı_Proje\bin\Debug\Nesne_Tabanlı_Proje.exe.config
+C:\Users\Egemen TURK\Desktop\Proje\Nesne_Tabanlı_Proje\Nesne_Tabanlı_Proje\bin\Debug\Nesne_Tabanlı_Proje.exe
+C:\Users\Egemen TURK\Desktop\Proje\Nesne_Tabanlı_Proje\Nesne_Tabanlı_Proje\bin\Debug\Nesne_Tabanlı_Proje.pdb
+C:\Users\Egemen TURK\Desktop\Proje\Nesne_Tabanlı_Proje\Nesne_Tabanlı_Proje\obj\Debug\Nesne_Tabanlı_Proje.exe
+C:\Users\Egemen TURK\Desktop\Proje\Nesne_Tabanlı_Proje\Nesne_Tabanlı_Proje\obj\Debug\Nesne_Tabanlı_Proje.pdb
+C:\Users\Egemen TURK\Desktop\Proje\Nesne_Tabanlı_Proje\Nesne_Tabanlı_Proje\obj\Debug\Nesne_Tabanlı_Proje.Form2.resources
+C:\Users\Egemen TURK\Desktop\Proje\Nesne_Tabanlı_Proje\Nesne_Tabanlı_Proje\obj\Debug\Nesne_Tabanlı_Proje.Form3.resources
+C:\Users\Egemen TURK\Desktop\Proje\Nesne_Tabanlı_Proje\Nesne_Tabanlı_Proje\bin\Debug\mydb.mdf
+C:\Users\Egemen TURK\Desktop\Proje\Nesne_Tabanlı_Proje\Nesne_Tabanlı_Proje\bin\Debug\mydb_log.ldf
+C:\Users\Egemen TURK\Desktop\Proje\Nesne_Tabanlı_Proje\Nesne_Tabanlı_Proje\obj\Debug\Nesne_Tabanlı_Proje.csprojAssemblyReference.cache
+C:\Users\Egemen TURK\Desktop\Proje\Nesne_Tabanlı_Proje\Nesne_Tabanlı_Proje\bin\Debug\Nesne_Tabanlı_Proje.exe.manifest
+C:\Users\Egemen TURK\Desktop\Proje\Nesne_Tabanlı_Proje\Nesne_Tabanlı_Proje\bin\Debug\Nesne_Tabanlı_Proje.application
+C:\Users\Egemen TURK\Desktop\Proje\Nesne_Tabanlı_Proje\Nesne_Tabanlı_Proje\obj\Debug\Nesne_Tabanlı_Proje.exe.manifest
+C:\Users\Egemen TURK\Desktop\Proje\Nesne_Tabanlı_Proje\Nesne_Tabanlı_Proje\obj\Debug\Nesne_Tabanlı_Proje.application
